@@ -9,7 +9,7 @@ A simple to-do list application done with React.
 Download the project by cloning using the command below:
 
 ```
-git clone https://github.com/codegrann/react-todo-app.git
+git clone https://github.com/Anthonylam08288/react-to-do-app.git
 cd react-to-do-app
 ```
 
